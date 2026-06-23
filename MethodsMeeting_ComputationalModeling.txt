@@ -1,0 +1,9 @@
+### Video of the session:
+
+Can be found in GitHub under releases
+
+### Link to slides:
+
+https://ozika.github.io/intro-to-modelling/#/title-slide
+
+Please press arrow keys to navigate the presentation!
